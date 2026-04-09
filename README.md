@@ -1,13 +1,18 @@
-# Murad Hasan Tamim
+<h1 align="center">
+  <span style="color:#58A6FF;">Murad Hasan Tamim</span>
+</h1>
 
-Computer Science student at American International University-Bangladesh (AIUB), Dhaka. Interested in software development and building practical applications.
+<p align="center">
+ <img src="https://readme-typing-svg.demolab.com/?lines=Computer+Science+Student;Building+practical+applications;Learning+and+improving;Open+to+Internships&center=true&width=550&height=45&color=F7007A&size=22">
+</p>
+
 
 ---
 
 ## 💻 Technical Skills
 
 ### 🚀 Languages
-<p>
+<p align="left">
   <a href="https://www.java.com" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=java" title="Java" />
   </a>
@@ -30,7 +35,7 @@ Computer Science student at American International University-Bangladesh (AIUB),
 </p>
 
 ### 🎨 Frontend
-<p>
+<p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=html" title="HTML" />
   </a>
@@ -41,7 +46,7 @@ Computer Science student at American International University-Bangladesh (AIUB),
 </p>
 
 ### 🗄️ Databases
-<p>
+<p align="left">
   <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" width="50"/>
   </a>
@@ -57,14 +62,15 @@ Computer Science student at American International University-Bangladesh (AIUB),
 
 ### 🧠 Core Concepts
 - Object-Oriented Programming (OOP)  
-- Data Structures & Algorithms (DSA)  
+- Data Structures & Algorithms (DSA)
+- File Handling
 
 ---
 
 ## 📫 Contact
 
 - 📧 Email: mhtamim136@gmail.com  
-- 🌐 Portfolio: https://mhtamim136.github.io  
+- 🌐 Portfolio: [mhtamim136.github.io](https://mhtamim136.github.io)
 
 ---
 
