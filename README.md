@@ -1,34 +1,71 @@
 # Murad Hasan Tamim
 
-Computer Science student at American International University-Bangladesh (AIUB), interested in software development.
+Computer Science student at American International University-Bangladesh (AIUB), Dhaka. Interested in software development and building practical applications.
 
 ---
 
-## Technical Skills
+## 💻 Technical Skills
 
-**Languages:** Java, PHP, C++, JavaScript  
-**Core Concepts:** OOP, Data Structures & Algorithms, File Handling  
-**Frontend:** HTML, CSS  
-**Database:** MySQL, Oracle Database  
-**Tools:** Git, GitHub, VS Code
+### 🚀 Languages
+<p>
+  <a href="https://www.java.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=java" title="Java" />
+  </a>
+
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=cs" title="C#" />
+  </a>
+
+  <a href="https://isocpp.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=cpp" title="C++" />
+  </a>
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=js" title="JavaScript" />
+  </a>
+
+  <a href="https://www.php.net/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=php" title="PHP" />
+  </a>
+</p>
+
+### 🎨 Frontend
+<p>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=html" title="HTML" />
+  </a>
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=css" title="CSS" />
+  </a>
+</p>
+
+### 🗄️ Databases
+<p>
+  <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" width="50"/>
+  </a>
+
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/fluency/48/sql.png" title="SQL Server" width="50"/>
+  </a>
+
+  <a href="https://www.oracle.com/database/" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" title="Oracle Database" width="50"/>
+  </a>
+</p>
+
+### 🧠 Core Concepts
+- Object-Oriented Programming (OOP)  
+- Data Structures & Algorithms (DSA)  
 
 ---
 
-## Featured Projects
+## 📫 Contact
 
-- [**ITFirm Hub Management System**](https://github.com/mhtamim136/ITFirmHub) – Java-based management system using OOP and file handling  
-- [**BuyTrust**](https://github.com/mhtamim136/BuyTrust) – Online platform for buying and selling products  
-- [**TeamFlow**](https://github.com/mhtamim136/TeamFlow-Lite-Mini-Task-Tracker) – Task management system for organizing work  
-- [**IdeaDbid**](https://github.com/mhtamim136/ideadbid) – Web-based application for project ideas
+- 📧 Email: mhtamim136@gmail.com  
+- 🌐 Portfolio: https://mhtamim136.github.io  
 
 ---
 
-## Contact
-
-- **Email:** mhtamim136@gmail.com  
-- **Portfolio:** https://mhtamim136.github.io  
-- **LinkedIn:** https://linkedin.com/in/mhtamim136  
-
----
-
-Open to internship opportunities in software development and engineering roles.
+⭐ Open to internship opportunities in software development and engineering roles.
