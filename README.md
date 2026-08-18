@@ -6,6 +6,9 @@
 
 <br/>
 
+<a href="https://mhtamim136.github.io" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-mhtamim136.github.io-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
 <a href="https://komarev.com/ghpvc/?username=mhtamim136">
   <img src="https://komarev.com/ghpvc/?username=mhtamim136&style=for-the-badge&color=00C9A7&label=PROFILE+VIEWS" alt="Profile Views" />
 </a>
@@ -13,7 +16,7 @@
   <img src="https://img.shields.io/github/followers/mhtamim136?label=FOLLOWERS&style=for-the-badge&color=F7007A&logo=github" alt="followers" />
 </a>
 <a href="mailto:mhtamim136@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-CONTACT-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
+  <img src="https://img.shields.io/badge/EMAIL-CONTACT-blue?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </div>
@@ -22,17 +25,12 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" width="320" src="https://raw.githubusercontent.com/mhtamim136/mhtamim136/main/assets/coding.gif" alt="coding gif" />
-
 - 🎓 Computer Science student at **American International University-Bangladesh (AIUB)**
 - 📍 Based in **Dhaka, Bangladesh**
 - 💡 Interested in **Software Development, Problem Solving & Practical Applications**
 - 🌱 Currently sharpening my skills in **Java, C#, C++, JavaScript, PHP & Databases**
 - 🚀 Passionate about learning, building, and continuously improving
 - 💼 **Open to internship opportunities** in software development & engineering roles
-- ⚡ Fun fact: I enjoy turning small ideas into working software
-
-<br clear="right"/>
 
 ---
 
@@ -40,23 +38,25 @@
 
 <div align="center">
 
-**Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=java,cs,cpp,js,php" />
+<b>Languages</b><br/>
+<img title="Java" src="https://skillicons.dev/icons?i=java" height="50"/>
+<img title="C#" src="https://skillicons.dev/icons?i=cs" height="50"/>
+<img title="C++" src="https://skillicons.dev/icons?i=cpp" height="50"/>
+<img title="JavaScript" src="https://skillicons.dev/icons?i=js" height="50"/>
+<img title="PHP" src="https://skillicons.dev/icons?i=php" height="50"/>
 
 <br/><br/>
 
-**Frontend**
-<br/>
-<img src="https://skillicons.dev/icons?i=html,css" />
+<b>Frontend</b><br/>
+<img title="HTML" src="https://skillicons.dev/icons?i=html" height="50"/>
+<img title="CSS" src="https://skillicons.dev/icons?i=css" height="50"/>
 
 <br/><br/>
 
-**Databases**
-<br/>
-<img src="https://skillicons.dev/icons?i=mysql" />
-<img src="https://img.icons8.com/color/48/microsoft-sql-server.png" title="SQL Server" height="48" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" title="Oracle" width="48" height="48" />
+<b>Databases</b><br/>
+<img title="MySQL" src="https://skillicons.dev/icons?i=mysql" height="50"/>
+<img title="SQL Server" src="https://img.icons8.com/color/48/microsoft-sql-server.png" height="50"/>
+<img title="Oracle" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="50"/>
 
 </div>
 
@@ -87,17 +87,13 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=mhtamim136&theme=tokyonight&no-frame=true&row=1&column=6" alt="trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=mhtamim136&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=15&margin-h=15" alt="trophies" />
 
 </div>
 
-> 💡 If the trophy row above shows blank for a while, it's usually the free public service being temporarily overloaded — reload the page after a minute or two.
-
 ---
 
-## 🐍 Contribution Snake (optional animated graph)
-
-Add this once to show an animated snake eating your contribution graph — GitHub regenerates it automatically every day via a workflow:
+## 🐍 Contribution Snake
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/mhtamim136/mhtamim136/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
