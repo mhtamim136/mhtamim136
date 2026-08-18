@@ -1,105 +1,130 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F2027,50:203A43,100:2C5364&text=Murad%20Hasan%20Tamim&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Aspiring%20Software%20Developer&descAlignY=58&animation=fadeIn" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Building+practical+applications;Learning+new+technologies+every+day;Passionate+about+software+development;Open+to+Internship+Opportunities" alt="Typing SVG" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F2027,50:2C5364,100:00C9A7&text=Murad%20Hasan%20Tamim&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Aspiring%20Software%20Developer&descAlignY=58&animation=twinkling" />
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=mhtamim136&style=for-the-badge&color=58A6FF">
-    <img src="https://komarev.com/ghpvc/?username=mhtamim136&style=for-the-badge&color=58A6FF" alt="Profile Views" />
-  </a>
-  <a href="https://github.com/mhtamim136?tab=followers">
-    <img src="https://img.shields.io/github/followers/mhtamim136?label=Followers&style=for-the-badge&color=F7007A" alt="followers" />
-  </a>
-  <a href="mailto:mhtamim136@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail" alt="email" />
-  </a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00C9A7&center=true&vCenter=true&width=750&lines=Computer+Science+Student+%40+AIUB;Building+Practical%2C+Real-World+Applications;Learning+Something+New+Every+Day;Passionate+About+Clean%2C+Efficient+Code;Open+to+Internship+Opportunities+%F0%9F%9A%80" alt="Typing SVG" />
 
----
+<br/>
+
+<a href="https://komarev.com/ghpvc/?username=mhtamim136">
+  <img src="https://komarev.com/ghpvc/?username=mhtamim136&style=for-the-badge&color=00C9A7&label=PROFILE+VIEWS" alt="Profile Views" />
+</a>
+<a href="https://github.com/mhtamim136?tab=followers">
+  <img src="https://img.shields.io/github/followers/mhtamim136?label=FOLLOWERS&style=for-the-badge&color=F7007A&logo=github" alt="followers" />
+</a>
+<a href="mailto:mhtamim136@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-CONTACT-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
+</a>
+
+</div>
+
+<br/>
 
 ## 👨‍💻 About Me
 
-- 🎓 Computer Science Student at **American International University-Bangladesh (AIUB)**
+<img align="right" width="320" src="https://raw.githubusercontent.com/mhtamim136/mhtamim136/main/assets/coding.gif" alt="coding gif" />
+
+- 🎓 Computer Science student at **American International University-Bangladesh (AIUB)**
 - 📍 Based in **Dhaka, Bangladesh**
-- 💡 Interested in **Software Development, Problem Solving, and Practical Applications**
-- 🌱 Currently improving my skills in **Java, C#, C++, JavaScript, PHP, and Databases**
+- 💡 Interested in **Software Development, Problem Solving & Practical Applications**
+- 🌱 Currently sharpening my skills in **Java, C#, C++, JavaScript, PHP & Databases**
 - 🚀 Passionate about learning, building, and continuously improving
-- 💼 **Open to internship opportunities** in software development and engineering roles
+- 💼 **Open to internship opportunities** in software development & engineering roles
+- ⚡ Fun fact: I enjoy turning small ideas into working software
+
+<br clear="right"/>
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 🚀 Languages
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,cs,cpp,js,php" />
-</p>
+<div align="center">
 
-### 🎨 Frontend
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css" />
-</p>
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=java,cs,cpp,js,php" />
 
-### 🗄️ Databases
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql" />
-  <img src="https://img.icons8.com/color/48/microsoft-sql-server.png" title="SQL Server" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" title="Oracle" width="48" height="48" />
-</p>
+<br/><br/>
 
-### 🧠 Core Concepts
-- Object-Oriented Programming (OOP)
-- Data Structures & Algorithms (DSA)
-- File Handling
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=html,css" />
 
----
+<br/><br/>
 
-## 📈 GitHub Stats
+**Databases**
+<br/>
+<img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://img.icons8.com/color/48/microsoft-sql-server.png" title="SQL Server" height="48" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" title="Oracle" width="48" height="48" />
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mhtamim136&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhtamim136&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" />
-</p>
+</div>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=mhtamim136&theme=tokyonight&hide_border=true&border_radius=12" />
-</p>
+**Core Concepts:** Object-Oriented Programming (OOP) · Data Structures & Algorithms (DSA) · File Handling
 
 ---
 
-## 🏆 GitHub Achievements
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mhtamim136&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
+<div align="center">
+
+<img height="170" src="https://github-stats-extended.vercel.app/api?username=mhtamim136&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true" />
+<img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=mhtamim136&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=mhtamim136&theme=tokyonight&hide_border=true&border_radius=12" alt="streak stats" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mhtamim136&theme=tokyo-night&hide_border=true&area=true&radius=12" alt="activity graph" />
+
+</div>
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=mhtamim136&theme=tokyonight&no-frame=true&row=1&column=6" alt="trophies" />
+
+</div>
+
+> 💡 If the trophy row above shows blank for a while, it's usually the free public service being temporarily overloaded — reload the page after a minute or two.
+
+---
+
+## 🐍 Contribution Snake (optional animated graph)
+
+Add this once to show an animated snake eating your contribution graph — GitHub regenerates it automatically every day via a workflow:
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/mhtamim136/mhtamim136/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</div>
 
 ---
 
 ## 🤝 Connect With Me
 
-<p align="center">
-  <a href="mailto:mhtamim136@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-mhtamim136%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://mhtamim136.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-  <a href="https://github.com/mhtamim136" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-mhtamim136-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+<div align="center">
+
+<a href="mailto:mhtamim136@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-mhtamim136%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://mhtamim136.github.io" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+<a href="https://github.com/mhtamim136" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-mhtamim136-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
 
 ---
 
-## ✨ A Quick Note
+<div align="center">
+<i>"I enjoy learning new technologies, solving problems, and building meaningful software solutions."</i>
+</div>
 
-<p align="center">
-  <i>"I enjoy learning new technologies, solving problems, and building meaningful software solutions."</i>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F2027,50:203A43,100:2C5364" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F2027,50:2C5364,100:00C9A7" />
