@@ -6,8 +6,8 @@
 
 <br/>
 
-<a href="https://mhtamim136.github.io" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-mhtamim136.github.io-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
+<a href="https://mhtamim136.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-mhtamim136.vercel.app-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 <a href="https://komarev.com/ghpvc/?username=mhtamim136">
   <img src="https://komarev.com/ghpvc/?username=mhtamim136&style=for-the-badge&color=00C9A7&label=PROFILE+VIEWS" alt="Profile Views" />
@@ -108,7 +108,7 @@
 <a href="mailto:mhtamim136@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-mhtamim136%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://mhtamim136.github.io" target="_blank">
+<a href="https://mhtamim136.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 <a href="https://github.com/mhtamim136" target="_blank">
