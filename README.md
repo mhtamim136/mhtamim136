@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0A0E13,50:0E7490,100:22D3EE&text=Murad%20Hasan%20Tamim&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Aspiring%20Software%20Developer&descAlignY=58&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0A0E13,50:0E7490,100:22D3EE&text=Murad%20Hasan%20Tamim&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Student%20%40%20AIUB&descAlignY=58&animation=twinkling" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=750&lines=Computer+Science+Student+%40+AIUB;Building+Practical%2C+Real-World+Applications;Learning+Something+New+Every+Day;Passionate+About+Clean%2C+Efficient+Code;Open+to+Internship+Opportunities+%F0%9F%9A%80" alt="Typing SVG" />
 
@@ -35,24 +35,25 @@
 <div align="center">
 
 <b>Languages</b><br/>
+<img title="C" src="https://skillicons.dev/icons?i=c" height="50"/>
+<img title="C++" src="https://skillicons.dev/icons?i=cpp" height="50"/>
 <img title="Java" src="https://skillicons.dev/icons?i=java" height="50"/>
 <img title="C#" src="https://skillicons.dev/icons?i=cs" height="50"/>
-<img title="C++" src="https://skillicons.dev/icons?i=cpp" height="50"/>
 <img title="JavaScript" src="https://skillicons.dev/icons?i=js" height="50"/>
-<img title="TypeScript" src="https://skillicons.dev/icons?i=ts" height="50"/>
+<img title="R" src="https://skillicons.dev/icons?i=r" height="50"/>
+<img title="PHP" src="https://skillicons.dev/icons?i=php" height="50"/>
 
 <br/><br/>
 
 <b>Frontend</b><br/>
 <img title="HTML" src="https://skillicons.dev/icons?i=html" height="50"/>
 <img title="CSS" src="https://skillicons.dev/icons?i=css" height="50"/>
-<img title="React" src="https://skillicons.dev/icons?i=react" height="50"/>
 
 <br/><br/>
 
 <b>Backend</b><br/>
-<img title="Node.js" src="https://skillicons.dev/icons?i=nodejs" height="50"/>
 <img title="PHP" src="https://skillicons.dev/icons?i=php" height="50"/>
+<img title=".NET Framework" src="https://skillicons.dev/icons?i=dotnet" height="50"/>
 
 <br/><br/>
 
@@ -60,6 +61,7 @@
 <img title="MySQL" src="https://skillicons.dev/icons?i=mysql" height="50"/>
 <img title="SQL Server" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="50"/>
 <img title="Oracle" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="50"/>
+<img title="PostgreSQL" src="https://skillicons.dev/icons?i=postgres" height="50"/>
 
 </div>
 
